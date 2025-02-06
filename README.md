@@ -45,9 +45,9 @@ This project helped me master the following concepts:
   - Consolidated insights from all dimensions.
   - High-level dashboards for quick decision-making.
 
-## 📽️ Live Demo  
+##  Live Demo  
 
 View the dashboard in action: [link](https://bit.ly/4hOuJvp)
 
-### 📌 Stay Connected  
+### Stay Connected  
 Follow me on [LinkedIn](https://www.linkedin.com/in/sowmya-sreenivasan/) to see more of my projects and learning journey.
