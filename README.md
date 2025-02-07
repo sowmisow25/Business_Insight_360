@@ -48,6 +48,7 @@ This project helped me master the following concepts:
 ##  Live Demo  
 
 View the dashboard in action: [link](https://bit.ly/4hOuJvp)
+Presentation Video : [link](https://www.linkedin.com/feed/update/urn:li:activity:7293314563209367552/) 
 
 ### Stay Connected  
 Follow me on [LinkedIn](https://www.linkedin.com/in/sowmya-sreenivasan/) to see more of my projects and learning journey.
