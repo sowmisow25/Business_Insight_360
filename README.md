@@ -47,7 +47,7 @@ This project helped me master the following concepts:
 
 ##  Live Demo  
 
-View the dashboard in action: [link](https://bit.ly/4hOuJvp)
+View the dashboard in action: [link](https://bit.ly/4iBym8d)
 Presentation Video : [link](https://www.linkedin.com/feed/update/urn:li:activity:7293314563209367552/) 
 
 ### Stay Connected  
