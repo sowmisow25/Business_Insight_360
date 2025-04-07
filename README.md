@@ -1,6 +1,6 @@
 <div align="center">
 
-# Business Insights 360 Dashboard  
+# Business Insights 360  
 
 </div>
 
